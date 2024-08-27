@@ -1,0 +1,50 @@
+rcv_msg: send message
+rcv_msg: GET /socket.io/?EIO=4&transport=polling HTTP/1.1
+user-agent: Dart/3.3 (dart:io)
+connection: Upgrade
+cache-control: no-cache
+accept-encoding: gzip
+sec-websocket-version: 13
+host: localhost:50000
+sec-websocket-extensions: permessage-deflate; client_max_window_bits
+sec-websocket-key: fruXR9l3DCTzJrH3rcV4vA==
+upgrade: websocket
+
+
+rcv_msg: GET /socket.io/?EIO=4&transport=polling HTTP/1.1
+user-agent: Dart/3.3 (dart:io)
+connection: Upgrade
+cache-control: no-cache
+accept-encoding: gzip
+sec-websocket-version: 13
+host: localhost:50000
+sec-websocket-extensions: permessage-deflate; client_max_window_bits
+sec-websocket-key: Bhu5a2nsS7a56ptl4wuE4A==
+upgrade: websocket
+
+
+rcv_msg: send message
+rcv_msg: GET /socket.io/?EIO=4&transport=polling HTTP/1.1
+user-agent: Dart/3.3 (dart:io)
+connection: Upgrade
+cache-control: no-cache
+accept-encoding: gzip
+sec-websocket-version: 13
+host: localhost:50000
+sec-websocket-extensions: permessage-deflate; client_max_window_bits
+sec-websocket-key: B+wQtvNo0F9H0pppYpPbgQ==
+upgrade: websocket
+
+
+rcv_msg: GET /socket.io/?EIO=4&transport=polling HTTP/1.1
+user-agent: Dart/3.3 (dart:io)
+connection: Upgrade
+cache-control: no-cache
+accept-encoding: gzip
+sec-websocket-version: 13
+host: localhost:50000
+sec-websocket-extensions: permessage-deflate; client_max_window_bits
+sec-websocket-key: enoxCsa/92kIPDryroq25w==
+upgrade: websocket
+
+
